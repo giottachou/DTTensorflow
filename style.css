@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+body {
+  background-image: url('https://i.pinimg.com/originals/eb/60/82/eb60823cf0dd7c2a92edee36ed2a3fe6.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+	color: #FFFFFF;
+}
+h1 {
+	color: rgba(91,43,255,1.00);
+}
+h2 {
+	color: #FF8200;
+}
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.first {
+	float: left;
+	position: relative;
+	width: 40%;
+	margin: 10px;
+}
+
+.second {
+	float: right;
+	position: relative;
+	width: 40%;
+	margin: 10px 30px 50px 10px;
+}
+
+.dist {
+	float:left;
+	position:relative;
+	width:40%; 
+	margin: 10px;
+}
+
+.data {
+	float: right;
+	position: relative;
+	width: 40%;
+	margin: 0px 30px 10px 10px;
+}
+
+ol, ul {
+	color: #FF8200;
+}
+
+img{
+	max-width: 5%;
+	height:auto;
+}
