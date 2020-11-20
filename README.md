@@ -1,5 +1,4 @@
 # DTTensorflow
 Programming Assignment: Distibuted Training with Tensorflow
 
-Link for the assignment stuff: https://giottachou.github.io/DTTensorflow/index.html
-
+Link for the assignment stuff: https://giottachou.github.io/DTTensorflow/
